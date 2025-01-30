@@ -90,7 +90,7 @@ categories = ["All"] + sorted(books["simple_categories"].unique())
 tones = ["All"] + ["Happy", "Surprising", "Angry", "Suspenseful", "Sad"]
 
 with gr.Blocks() as dashboard:
-    gr.Markdown("# Semantic Book Recommender")
+    gr.Markdown("# MatchBOOK: A Semantic Book Recommender")
 
     with gr.Row():
         user_query = gr.Textbox(label="Please enter a description of a book:",

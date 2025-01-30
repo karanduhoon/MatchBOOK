@@ -86,25 +86,4 @@ A Gradio-based web application allowing users to interact with the book recommen
 
 4. Access the application on your local browser (default: `http://127.0.0.1:7860`).
 
-## Course Inspiration
-
-This project is inspired by the course **"Build a Semantic Book Recommender"** which covers advanced techniques for building recommendation systems using NLP, LangChain, and Gradio.
-
-## Future Work
-
-- Integrate real-time APIs for fetching book data.
-- Enhance the recommendation model using fine-tuned GPT embeddings.
-- Add user authentication and session management for personalized experiences.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-Feel free to explore the code, notebooks, and datasets. Feedback and suggestions are always appreciated!
 

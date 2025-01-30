@@ -1,5 +1,3 @@
-Here's a polished `README.md` for your **MatchBOOK** semantic book recommender app:
-
 ```markdown
 # MatchBOOK 📚✨  
 **Your AI-Powered Book Matchmaker**  
